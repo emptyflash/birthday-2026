@@ -1,0 +1,60 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:emptyflash@gmail.com
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+DTSTART:20260412T160000Z
+DTEND:20260413T010000Z
+DTSTAMP:20260330T182030Z
+UID:575lpqfo26akqmjod1c3dte4id@google.com
+CREATED:20260330T181906Z
+DESCRIPTION:Hello friends! April 12 is my birthday and it is also the secon
+ d sunday of the month. So I'll be at <a href="https://pioneerworks.org/prog
+ rams/second-sundays-april-2026">PioneerWorks Second Sundays</a> this year. 
+ I'd love to see you there!<br><br>There's going to be lots of events all da
+ y\, and we can hang out in the garden. <i>If you plan on going remember to 
+ RSVP on the PioneerWorks website.</i><br><br>Let me know if you're coming<b
+ r><br>I'll probably get there around noon and stay until the end (around 6)
+ . Afterward\, If we're up for it\, we can also go to Strong Rope Brewery ne
+ arby.<br><br>Cheers\,<br>Cameron
+LAST-MODIFIED:20260330T181906Z
+LOCATION:Pioneer Works\, 159 Pioneer St\, Brooklyn\, NY 11231\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Cameron's Birthday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20250410T183000
+DTEND;TZID=America/New_York:20250410T210000
+DTSTAMP:20260330T182030Z
+ORGANIZER;CN=dev.evanpiro@gmail.com:mailto:dev.evanpiro@gmail.com
+UID:tu3mmsnbs0sk2khc54fm8ct8rb@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=dev.ev
+ anpiro@gmail.com;X-NUM-GUESTS=0:mailto:dev.evanpiro@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=dev.ne
+ lsonlopez@gmail.com;X-NUM-GUESTS=0:mailto:dev.nelsonlopez@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;CN=yufen
+ g.zhao@brilliant.org;X-NUM-GUESTS=0:mailto:yufeng.zhao@brilliant.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=mbryze
+ k@gmail.com;X-NUM-GUESTS=0:mailto:mbryzek@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=em
+ ptyflash@gmail.com;X-NUM-GUESTS=0:mailto:emptyflash@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=za
+ ch@windmountainsoftware.com;X-NUM-GUESTS=0:mailto:zach@windmountainsoftware
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=brettk
+ olodny@gmail.com;X-NUM-GUESTS=0:mailto:brettkolodny@gmail.com
+RECURRENCE-ID;TZID=America/New_York:20250410T183000
+CREATED:20240502T144700Z
+DESCRIPTION:Elm devs talk Elm.
+LAST-MODIFIED:20251205T031724Z
+LOCATION:The Scratcher\, 209 E 5th St\, New York\, NY 10003\, USA
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:NYC Elm Devs Meetup
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
